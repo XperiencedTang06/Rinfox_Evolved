@@ -1,1 +1,1 @@
-WIP: This fork has been recently been created and will start development soon.
+WIP: This fork has been recently been created and the readme and the fork's will start development soon.
